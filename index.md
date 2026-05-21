@@ -12,8 +12,8 @@ Welcome! Below you will find the **Privacy Policy** and the **Terms of Service**
 
 ## 1. Privacy Policy
 
-**Last Updated: May [Day], 2026**  
-**Effective Date: May [Day], 2026**
+**Last Updated: May 21, 2026**  
+**Effective Date: May 21, 2026**
 
 We is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the EzSleep mobile application (the "App").
 
