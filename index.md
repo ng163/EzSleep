@@ -15,7 +15,7 @@ Welcome! Below you will find the **Privacy Policy** and the **Terms of Service**
 **Last Updated: May 21, 2026**  
 **Effective Date: May 21, 2026**
 
-We is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the EzSleep mobile application (the "App").
+Alex Hua is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the EzSleep mobile application (the "App").
 
 By using the App, you consent to the practices described in this policy. If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
 
